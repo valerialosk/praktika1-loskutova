@@ -1,0 +1,1 @@
+CREATE SCHEMA lakehouse.gold;
